@@ -1,0 +1,26 @@
+{
+  "name": "airlines-iata-codes",
+  "version": "1.0.0",
+  "description": "\"Provides with names of airlines based on IATA codes from Openflights.org\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malaymatwankar/airlines-iata-codes.git"
+  },
+  "keywords": [
+    "iata",
+    "airlines",
+    "codes",
+    "names",
+    "iata-codes"
+  ],
+  "author": "Malay Matwankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malaymatwankar/airlines-iata-codes/issues"
+  },
+  "homepage": "https://github.com/malaymatwankar/airlines-iata-codes#readme"
+}
