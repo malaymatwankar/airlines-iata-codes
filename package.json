@@ -1,6 +1,6 @@
 {
   "name": "airlines-iata-codes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"Provides with names of airlines based on IATA codes from Openflights.org\"",
   "main": "index.js",
   "scripts": {

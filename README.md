@@ -8,7 +8,9 @@ npm install airlines-iata-codes
 ```
 
 ## Usage
+```javascript
 var airlines = require('airlines-iata-codes');
 
-console.log(airlines.getAirline("Q5"));<br>
+console.log(airlines.getAirlineName("Q5"));<br>
 // 40-Mile Air
+```
